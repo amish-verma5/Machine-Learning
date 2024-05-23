@@ -12,5 +12,7 @@ To install these,run the command below in your terminal:
 
   
 d.<img width="1440" alt="Screenshot 2024-05-23 at 15 05 36" src="https://github.com/CesairAV/Machine-Learning/assets/157805307/9abe7069-db9b-4a15-9f2e-a60dac4faf76">
+
 <img width="1440" alt="Screenshot 2024-05-23 at 15 05 44" src="https://github.com/CesairAV/Machine-Learning/assets/157805307/aa1aaae6-4a4a-4f5a-af53-37490676700c">
+
 <img width="1440" alt="Screenshot 2024-05-23 at 15 07 08" src="https://github.com/CesairAV/Machine-Learning/assets/157805307/32dd5304-0a0a-49c7-a0a5-ba8fc27aaeff">
